@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="C972027F-7E1A-4E46-A6F8-3432FCB8B6AD" ModuleId="LoveMyFilm.Web" />
+  <Module PersistentId="407E477A-1F6D-4689-8D1B-5E77340D522B" ModuleId="LoveMyFilm.DataLayer" />
+  <Module PersistentId="B21A4BC1-FB34-4166-B74C-50D6351EAE41" ModuleId="LoveMyFilm.Entity" />
+</Modules>
