@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoveMyFilm.Web", "LoveMyFilm.Web\LoveMyFilm.Web.csproj", "{C972027F-7E1A-4E46-A6F8-3432FCB8B6AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoveMyFilm.DataLayer", "LoveMyFilm.DataLayer\LoveMyFilm.DataLayer.csproj", "{407E477A-1F6D-4689-8D1B-5E77340D522B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoveMyFilm.Entity", "LoveMyFilm.Entity\LoveMyFilm.Entity.csproj", "{B21A4BC1-FB34-4166-B74C-50D6351EAE41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C972027F-7E1A-4E46-A6F8-3432FCB8B6AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C972027F-7E1A-4E46-A6F8-3432FCB8B6AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C972027F-7E1A-4E46-A6F8-3432FCB8B6AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C972027F-7E1A-4E46-A6F8-3432FCB8B6AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{407E477A-1F6D-4689-8D1B-5E77340D522B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{407E477A-1F6D-4689-8D1B-5E77340D522B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{407E477A-1F6D-4689-8D1B-5E77340D522B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{407E477A-1F6D-4689-8D1B-5E77340D522B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B21A4BC1-FB34-4166-B74C-50D6351EAE41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B21A4BC1-FB34-4166-B74C-50D6351EAE41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B21A4BC1-FB34-4166-B74C-50D6351EAE41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B21A4BC1-FB34-4166-B74C-50D6351EAE41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
