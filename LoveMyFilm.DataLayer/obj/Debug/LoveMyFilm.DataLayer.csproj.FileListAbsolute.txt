@@ -1,0 +1,5 @@
+C:\LoveMyFilm\LoveMyFilm\LoveMyFilm.DataLayer\bin\Debug\LoveMyFilm.DataLayer.dll
+C:\LoveMyFilm\LoveMyFilm\LoveMyFilm.DataLayer\bin\Debug\LoveMyFilm.DataLayer.pdb
+C:\LoveMyFilm\LoveMyFilm\LoveMyFilm.DataLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\LoveMyFilm\LoveMyFilm\LoveMyFilm.DataLayer\obj\Debug\LoveMyFilm.DataLayer.dll
+C:\LoveMyFilm\LoveMyFilm\LoveMyFilm.DataLayer\obj\Debug\LoveMyFilm.DataLayer.pdb

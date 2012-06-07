@@ -1,0 +1,5 @@
+C:\LoveMyFilm\LoveMyFilm\LoveMyFilm.Entity\bin\Debug\LoveMyFilm.Entity.dll
+C:\LoveMyFilm\LoveMyFilm\LoveMyFilm.Entity\bin\Debug\LoveMyFilm.Entity.pdb
+C:\LoveMyFilm\LoveMyFilm\LoveMyFilm.Entity\obj\Debug\ResolveAssemblyReference.cache
+C:\LoveMyFilm\LoveMyFilm\LoveMyFilm.Entity\obj\Debug\LoveMyFilm.Entity.dll
+C:\LoveMyFilm\LoveMyFilm\LoveMyFilm.Entity\obj\Debug\LoveMyFilm.Entity.pdb
